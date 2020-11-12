@@ -1,0 +1,55 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>油画列表</title>
+<link rel="stylesheet" type="text/css" href="css\list.css">
+</head>
+<body>
+	<div class="container">
+		<fieldset>
+			<legend>油画列表</legend>
+			<div style="height: 40px">
+				<a href="#" class="btn-button">新增</a>
+			</div>
+			<!-- 油画列表 -->
+			<table cellspacing="0px">
+				<thead>
+					<tr style="width: 150px;">
+						<th style="width: 100px">分类</th>
+						<th style="width: 150px;">名称</th>
+						<th style="width: 100px;">价格</th>
+						<th style="width: 400px">描述</th>
+						<th style="width: 100px">操作</th>
+					</tr>
+				</thead>
+					<tr>
+						<td>现实主义</td>
+						<td>古典油画鉴赏1</td>
+						<td>¥3800.00</td>
+						<td>古典油画鉴赏1的描述文本</td>
+						<td>
+							<a class="oplink" href="#">预览</a>
+							<a class="oplink" href="#">修改</a>
+							<a class="oplink" href="#">删除</a>
+						</td>
+					</tr>
+			</table>
+			<!-- 分页组件 -->
+			<ul class="page">
+				<li><a href="#">首页</a></li>
+				<li><a href="#">上页</a></li>
+				<li class='active'><a href="#">1</a></li>
+				<li ><a href="#">2</a></li>
+				<li><a href="#">下页</a></li>
+				<li><a href="#">尾页</a></li>
+			</ul>
+		</fieldset>
+	</div>
+
+</body>
+</html>

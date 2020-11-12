@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 数据文件 --><root>
+	<painting id="1">
+		<pname>古典油画鉴赏1</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/1.jpg</preview>
+		<description>古典油画鉴赏1的描述文本</description>
+	</painting>
+	<painting id="2">
+		<pname>古典油画鉴赏2</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/2.jpg</preview>
+		<description>古典油画鉴赏2的描述文本</description>
+	</painting>
+	<painting id="3">
+		<pname>古典油画鉴赏3</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/3.jpg</preview>
+		<description>古典油画鉴赏3的描述文本</description>
+	</painting>
+	<painting id="4">
+		<pname>古典油画鉴赏4</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/4.jpg</preview>
+		<description>古典油画鉴赏4的描述文本</description>
+	</painting>
+	<painting id="5">
+		<pname>古典油画鉴赏5</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/5.jpg</preview>
+		<description>古典油画鉴赏5的描述文本</description>
+	</painting>
+	<painting id="6">
+		<pname>古典油画鉴赏6</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/6.jpg</preview>
+		<description>古典油画鉴赏6的描述文本</description>
+	</painting>
+	<painting id="7">
+		<pname>古典油画鉴赏7</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/7.jpg</preview>
+		<description>古典油画鉴赏7的描述文本</description>
+	</painting>
+	<painting id="8">
+		<pname>古典油画鉴赏8</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/8.jpg</preview>
+		<description>古典油画鉴赏8的描述文本</description>
+	</painting>
+	<painting id="9">
+		<pname>古典油画鉴赏9</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/9.jpg</preview>
+		<description>古典油画鉴赏9的描述文本</description>
+	</painting>
+	<painting id="10">
+		<pname>抽象派油画鉴赏1</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/10.jpg</preview>
+		<description>抽象派油画鉴赏1的描述文本</description>
+	</painting>
+	<painting id="11">
+		<pname>抽象派油画鉴赏2</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/11.jpg</preview>
+		<description>抽象派油画鉴赏2的描述文本</description>
+	</painting>
+	<painting id="12">
+		<pname>抽象派油画鉴赏3</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/12.jpg</preview>
+		<description>抽象派油画鉴赏3的描述文本</description>
+	</painting>
+	<painting id="13">
+		<pname>抽象派油画鉴赏4</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/13.jpg</preview>
+		<description>抽象派油画鉴赏4的描述文本</description>
+	</painting>
+	<painting id="14">
+		<pname>抽象派油画鉴赏5</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/14.jpg</preview>
+		<description>抽象派油画鉴赏5的描述文本</description>
+	</painting>
+	<painting id="15">
+		<pname>抽象派油画鉴赏6</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/15.jpg</preview>
+		<description>抽象派油画鉴赏6的描述文本</description>
+	</painting>
+	
+<painting id="16"><pname>æ¢¦ä¸å½å¥³æ§</pname><category>2</category><price>23456</price><preview>/upload/09152bd9-9c35-4c18-b481-e6149d1d5d84.jpg</preview><description>åæ¢¦è¹</description></painting><painting id="17"><pname>杀杀杀</pname><category>1</category><price>333333</price><preview>/upload/1ccac7e1-07b0-453d-b54e-59615fec920a.jpg</preview><description>周瑜</description></painting><painting id="18"><pname>test</pname><category>1</category><price>22222</price><preview>/upload/4e34c0d1-9957-474d-971e-da40b78949e2.jpg</preview><description>测试</description></painting><painting id="19"><pname>周瑜</pname><category>1</category><price>111</price><preview>/upload/2c205f36-12d9-45d9-92a7-8c5e04388fcc.jpg</preview><description>梦三国周瑜</description></painting><painting id="20"><pname>wps</pname><category>1</category><price>1</price><preview>/upload/5fccbbcf-c7d9-4328-b8d1-4de9d80cd087.png</preview><description>wps开启画面</description></painting></root>
